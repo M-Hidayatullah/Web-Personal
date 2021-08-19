@@ -1,2 +1,2 @@
 # Web-Personal
-bahan ajar cara berkontibusi open source di github
+bahan ajar untuk berkontribusi project open source di github author : https://github.com/M-Hidayatullah
